@@ -25,9 +25,9 @@ The API response should be JSON containing each robots final coordinates and hea
 
 ## Acceptance criteria ##
 
-In order to confirm your program is working correctly, we have provided some test input and output for your use. Implement these details however you consider most appropriate.
+In order to confirm your API is working correctly, we have provided some test input and output for your use. Implement these details however you consider most appropriate.
 
-## Test input:##
+**Test input:**
 
 5 5
 
@@ -43,7 +43,7 @@ LMLMLMLMM
 
 MMRMMRMRRM
 
-## Expected output:##
+**Expected output:**
 
 
 1 3 N
