@@ -1,7 +1,7 @@
 Robot Wars
 =================
 
-## Requirements ##
+## Context ##
 
 A fleet of hand built robots are due to engage in battle for the annual “Robot Wars” competition. Each robot will be placed within a rectangular battle arena and will navigate their way around the arena using a built in computer system.
 
