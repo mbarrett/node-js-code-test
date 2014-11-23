@@ -1,0 +1,19 @@
+{
+  "name": "node-js-code-test",
+  "version": "0.0.1",
+  "author": "Antonio Bustos",
+  "main": "./lib/server.js",
+  "scripts": {
+    "start": "node ./lib/server",
+    "test": "mocha -R spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/antoniobusrod/node-js-code-test.git"
+  },
+  "dependencies": {
+    "body-parser": "^1.9.3",
+    "express": "^4.10.2",
+    "node-uuid": "^1.4.1"
+  }
+}
